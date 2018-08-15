@@ -1,0 +1,461 @@
+.banner_section{}
+.bannar{}
+.bannar img{
+	width: 100%;
+    height: auto;
+}
+.content{
+	text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.content p{
+    font-size: 14px;
+    color: #444;
+    margin-bottom: 25px;
+    line-height: 18px;
+}
+.content strong{
+    display: block;
+}
+.count_section{}
+.count_con{
+	margin:0;
+	padding: 0;
+	width: 100%;
+    position: relative;
+    z-index: 1;
+}
+.overlay{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    background: rgb(255, 220, 220);
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+.count_row{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 1080px;
+    margin: 0 auto;
+    width: 100%;
+}
+.count span{
+	display: inline-block;
+    background: #fff;
+    color: #000;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 100%;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.count h3{
+	min-height: 55px;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+	color: #444444;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: 0;
+}
+
+
+.count a{
+	background: #fff;
+    display: inline-block;
+    padding: 11px 24px;
+    font-style: italic;
+    margin-top: 20px;
+    color: #444444;
+    text-decoration: none;
+}
+.one_dress_row{
+	text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.one_heading{}
+.one_heading h2{
+    font-family: 'Parisienne', cursive;
+	font-size: 80px;
+    letter-spacing: 6px;
+    font-style: italic;
+    border-bottom: 1px solid #d0d0d0;
+    padding-bottom: 10px;	
+}
+.one_dress_img{
+	padding-left: 15px;
+    padding-right: 15px;
+}
+.one_dress_img img{
+	width: 100%;
+    height: auto;
+}
+.color_row{ 
+	background: #757575;
+	margin: 0 70px;
+ }
+.sizing{
+	text-align: center;
+	padding-top: 150px;
+}
+.sizing h2{
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 24px;
+	border-bottom: 1px solid #ffcccc;
+	display: inline-block;
+	padding-bottom: 10px;
+}
+.sizing p{
+	color: #fff;
+	font-size: 18px;
+	line-height: 1.em;
+	text-transform: capitalize;
+}
+.color_section{}
+.color_img{}
+.color_img img{
+    width: 100%;
+}
+.how_to_section{
+	margin-top: 55px;
+}
+.how_to_wear_img{
+	padding: 13px 0 13px 0;
+}
+.how_to_wear_img img{
+    margin: 0 auto;
+}
+.how_to_wear{
+	text-align: center;
+	padding-top: 70px;
+}
+.how_to_wear a{
+	text-decoration: none;
+}
+.how_to_wear h2{
+	text-transform: uppercase;
+    color: #fff;
+    font-size: 24px;
+    border-bottom: 1px solid #ffcccc;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+.how_to_wear p{
+	color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.apoirment_section{
+	margin-top: 55px;
+}
+.apoirment_row{
+	margin: 0 70px;
+}
+.apoirment_img{}
+.apoirment_img img{
+	margin: 0 auto;
+    width: 100%;
+}
+.tectimonial_section{
+	background: #999999;
+	margin-top: 55px;
+	padding: 60px;
+    text-align: center;
+}
+.test_heading{}
+.test_heading h2{
+	color: #fff;
+    font-size: 84px;
+    font-style: italic;
+    font-family: 'Parisienne', cursive;
+    text-align: center;
+    border-bottom: 1px solid #d0d0d0;
+}
+.carousel-control{
+	width: 0 !important;
+	opacity: 1 !important;
+}
+.carousel-inner{
+	width: 96% !important;
+	margin: 0 auto !important;
+}
+.item{
+	color: #fff;
+}
+.item p{
+	font-size: 20px;
+    line-height: 1.5em;
+}
+.item h4{
+	font-size: 25px;
+	font-weight: bold;
+    letter-spacing: 1.5px;
+}
+.after_testemonial_section{
+	margin-top: 55px;
+	margin-bottom: 55px;
+}
+.about_company{
+	border: 3px solid #ffd6d6;
+    padding: 40px;
+    text-align: center;
+    min-height: 418px;
+    color: #000;
+}
+.after_testemonial_row{ 
+	margin: 0 70px;
+ }
+.about_company img{
+	margin: 0 auto;
+}
+.about_company h2{
+	font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 21px;
+    color: #000;
+    border-bottom: 1px solid #d0d0d0;
+    padding-bottom: 5px;
+    letter-spacing: 0px;
+    padding-top: 15px;
+}
+.about_company p{
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: .5px;
+}
+.top_border{
+	border: 1px solid #8F878A;
+	width: 82%;
+	margin-bottom: 40px;
+}
+.bottom_border{
+	border: 1px solid #8F878A;
+	width: 82%;	
+	margin-bottom: 40px;
+}
+.last_top_content{
+	text-align: center;
+}
+.last_top_content p{
+	margin-bottom: 20px;
+}
+.last_bottom_content{ 
+	padding-left: 22px;
+    padding-right: 22px; 
+}
+.last_bottom_content p{
+	color: #949494;
+}
+
+
+/*====================Start Media Query for responisve=====================*/
+
+@media only screen and (max-width:480px){
+.content_section{
+	display: none;
+}
+.test_heading h2{
+	font-size: 50px;
+}
+.count_row {
+    padding-top: 20px;
+    padding-bottom: 25px;  
+}
+.count span{
+    margin-bottom: 15px;
+}
+.count h3 {
+    min-height: 30px;
+}
+.count a {
+    margin-top: 8px;
+    margin-bottom: 30px;
+}
+.one_heading h2 {
+    font-size: 30px;
+    letter-spacing: 0px;
+}
+.one_dress_row {
+    padding-top: 0px;
+    padding-bottom: 45px;
+}
+.color_row {
+    margin: 0 15px;
+}
+.sizing{
+	padding-top: 0px;
+}
+.sizing h2 {
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+.sizing p {
+    font-size: 12px;
+}
+.color_img img {
+    width: 75%;
+    height: 300px;
+    margin: 0 auto;
+}
+.how_to_section {
+    margin-top: 35px;
+}
+.how_to_wear {
+    padding-top: 0px;
+}
+.how_to_wear h2 {
+    font-size: 18px;
+    padding-bottom: 3px;
+}
+.how_to_wear p {
+    font-size: 12px;
+}
+.apoirment_section {
+    margin-top: 35px;
+}
+.apoirment_row {
+    margin: 0 15px;
+}
+.tectimonial_section {
+    margin-top: 35px;
+    padding: 35px;
+}
+.item p {
+    font-size: 12px;
+}
+.item h4 {
+    font-size: 18px;
+}
+.after_testemonial_section{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.after_testemonial_row {
+    margin: 0;
+}
+.about_company {
+    margin-bottom: 12px;
+}
+.about_company p {
+    font-size: 12px;
+}.about_company h2 {
+    font-size: 18px;
+}
+.last_top_content {
+    margin: 15px;
+}
+.top_border {
+    margin-bottom: 15px;
+}
+}
+
+/*=============Mobile Device For 480-768 screan==================*/
+
+@media (min-width:480px) and (max-width:768px){
+.content_section{
+	display: none;
+}
+.count_row {
+    padding-top: 35px;
+    padding-bottom: 10px;  
+}
+.count span{
+    margin-bottom: 10px;
+}
+.count h3 {
+    min-height: 30px;
+}
+.count a {
+    margin-top: 8px;
+    margin-bottom: 35px;
+}
+.one_heading h2 {
+    font-size: 36px;
+	letter-spacing: 2px;
+}
+.one_dress_row {
+    padding-top: 0px;
+    padding-bottom: 35px;
+}
+.color_row {
+    margin: 0 15px;
+}
+.sizing{
+	padding-top: 0px;
+}
+.sizing h2 {
+    font-size: 22px;
+    padding-bottom: 5px;
+}
+.sizing p {
+    font-size: 14px;
+}
+.color_img img {
+	width: 50%;
+	height: 350px;
+    margin: 0 auto;
+}
+.how_to_section {
+    margin-top: 35px;
+}
+.how_to_wear {
+    padding-top: 0px;
+}
+.how_to_wear h2 {
+    font-size: 21px;
+    padding-bottom: 3px;
+}
+.how_to_wear p {
+    font-size: 12px;
+}
+.apoirment_section {
+    margin-top: 35px;
+}
+.apoirment_row {
+    margin: 0 70px;
+}
+.tectimonial_section {
+	margin-top: 35px;
+	padding: 0 35px 10px;
+}
+.test_heading h2 {
+    font-size: 60px;
+}
+.item p {
+    font-size: 12px;
+}
+.item h4 {
+    font-size: 22px;
+}
+.after_testemonial_section{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.after_testemonial_row {
+    margin: 0 60px;
+}
+.about_company {
+    margin-bottom: 12px;
+}
+.about_company p {
+    font-size: 12px;
+}.about_company h2 {
+    font-size: 18px;
+}
+.last_top_content {
+    margin: 15px;
+}
+.top_border {
+    margin-bottom: 15px;
+}
+}
